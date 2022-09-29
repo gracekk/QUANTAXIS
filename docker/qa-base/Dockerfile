@@ -1,4 +1,4 @@
-FROM python:3.6.5-jessie
+FROM python:3.9-slim
 
 ENV TZ=Asia/Shanghai
 ENV DEBIAN_FRONTEND noninteractive
