@@ -20,3 +20,4 @@ scrapy
 attrs>=17.4.0
 pyconvert>=0.6.3
 demjson>=2.2.4
+gevent>=23.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
