@@ -11,7 +11,7 @@ apscheduler>=3.3.1
 tornado
 zenlog
 pyecharts
-protobuf>=3.4
+protobuf>=4.25.8
 motor>=1.1
 retrying
 seaborn>=0.8.1
@@ -20,3 +20,4 @@ scrapy
 attrs>=17.4.0
 pyconvert>=0.6.3
 demjson>=2.2.4
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
