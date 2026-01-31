@@ -11,7 +11,7 @@ apscheduler>=3.3.1
 tornado
 zenlog
 pyecharts
-protobuf>=3.4
+protobuf>=6.33.5
 motor>=1.1
 retrying
 seaborn>=0.8.1
